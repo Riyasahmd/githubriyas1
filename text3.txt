@@ -1,1 +1,1 @@
-gi
+gthis is text3.txt file
